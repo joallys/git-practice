@@ -1,3 +1,5 @@
-# git-practice# git-descriptions
-# git-descriptions
-# git-practice
+# comandos basicos de git
+* como inicializar un repositorio 
+* como hacer un commit 
+
+
